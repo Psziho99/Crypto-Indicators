@@ -7,7 +7,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    color: #333;
+    color: #85bb65;
     line-height: 1.6;
 }
 
@@ -64,7 +64,7 @@ section#indicators h2 {
 }
 
 footer {
-    background-color: #333;
+    background-color: #85bb65;
     color: white;
     text-align: center;
     padding: 1rem;
